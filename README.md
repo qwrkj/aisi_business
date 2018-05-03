@@ -2,7 +2,7 @@
 
 此为商户使用版本，用户版本将在近期上线。
 
-![image](https://github.com/galaxygame/coachplan/blob/master/applicat.png)
+![image](https://github.com/qwrkj/aisi_business/blob/master/app.png)
 
 Framework
 
