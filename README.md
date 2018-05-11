@@ -1,8 +1,11 @@
-爱思掌上平台 - Business贯彻线上购物，线下支付的新型互联网理念，依托互联网载体，为社区人民提供高效便捷的购物服务。
+爱思掌上平台 - Business为商家使用版本。
+【我的商品】店内商品一目了然。
+【发货处理】实时处理在线订单。
+【账务查询】账务收支清晰罗列。
+【退款管理】用户退款实时处理。
+贯彻线上购买，线下支付的互联网理念，为社区居民提供高效便捷的购物服务。
 
-此为商户使用版本，用户版本将在近期上线。
-
-![image](https://github.com/qwrkj/aisi_business/blob/master/application.png)
+![image](https://github.com/qwrkj/aisi_business/blob/master/app_business.png)
 
 Framework
 
